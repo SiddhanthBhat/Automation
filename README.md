@@ -15,7 +15,7 @@
 
 
 ## How to use
-1. First open the first.py file in a text editor and change the 2 path filename on line 30 and 49
+1. First open the first.py file in a text editor and change the path filename on line 30 and 49 to where you have saved this folder
 2. Open the Employee CSV file and add your name and index number of choice.
 3. Open the Menu CSV file to see the index number of varios South Indian Dishes and change/add as you please
 4. Run the Python File
