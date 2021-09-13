@@ -12,6 +12,7 @@
 2. Tax addition
 3. Menu View for Index numbers
 4. Adding SQL support
+5. UI Overhaul (It makes me cry looking at it right now 😢 )
 
 
 ## How to use
